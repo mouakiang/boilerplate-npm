@@ -3,6 +3,7 @@
 	"author": "Kia Moua",
 	"description": "A project with freeCodeCamp",
 	"keywords": ["freecodecamp", "project"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
